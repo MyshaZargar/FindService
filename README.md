@@ -1,4 +1,4 @@
-# ServiceFind
+# FindService
 
 A local service marketplace that connects customers with verified service providers.
 
